@@ -89,9 +89,7 @@ cp client/.env.example client/.env
 npm run dev
 ```
 
-The app will be available at:
-- Frontend: http://localhost:5173
-- Backend: http://localhost:3001
+The app will be available at kevlify-client.onrender.com/
 
 For detailed setup instructions, see [docs/SETUP.md](docs/SETUP.md).
 
