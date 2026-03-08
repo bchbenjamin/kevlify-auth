@@ -14,6 +14,8 @@ Kevlify Authenticator is a **web implementation** of the concepts pioneered by [
 - 🔐 **Google OAuth**: Sign in with Google (in addition to traditional email/password)
 - 🗄️ **Hybrid Database**: SQLite for local development, PostgreSQL for production
 
+**Access the Project at:**: [Kevlify Authenticator](https://kevlify-client.onrender.com) (Note that log in with Google is still a test feature, and that this authenticator isn't registered with Google as of late, so **this feature isn't working**)
+
 **Credit**: This project builds upon the excellent foundation and ideas from [Stratum Auth](https://github.com/stratumauth/app). We highly recommend their Android app for mobile users seeking a privacy-focused, offline-first 2FA solution.
 
 ---
